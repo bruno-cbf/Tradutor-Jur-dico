@@ -1,0 +1,6 @@
+{
+  "name": "Tradutor Cidadão TJRR - Linguagem Simples",
+  "description": "Tradutor de juridiquês para linguagem simples e acessível ao cidadão leigo, alinhado ao TJRR e ao Pacto Nacional do Judiciário pela Linguagem Simples do CNJ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
